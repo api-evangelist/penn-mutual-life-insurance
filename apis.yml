@@ -22,6 +22,12 @@ apis: []
 common:
   - type: Website
     url: https://www.pennmutual.com
+  - type: Integrations
+    url: https://www.pennmutual.com/integrations
+integrations:
+  - name: hamburger menu
+  - name: close menu
+  - name: dropdown
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
