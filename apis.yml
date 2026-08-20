@@ -23,6 +23,11 @@ tags:
   - Insurance
   - Life Insurance
   - Annuities
+  - Financial-Services
+tags_raw:
+  - Insurance
+  - Life Insurance
+  - Annuities
   - Financial Services
 url: >-
   https://raw.githubusercontent.com/api-evangelist/penn-mutual-life-insurance/refs/heads/main/apis.yml
