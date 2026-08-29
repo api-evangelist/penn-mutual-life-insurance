@@ -41,6 +41,8 @@ tags_raw:
   - Annuities
   - Financial Services
 url: >-
+x-api-posture: no-product-api
+x-api-posture-basis: observed
   https://raw.githubusercontent.com/api-evangelist/penn-mutual-life-insurance/refs/heads/main/apis.yml
 created: '2026-03-24'
 modified: '2026-04-28'
