@@ -66,3 +66,5 @@ integrations:
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
+x-parent: penn-mutual
+x-relationship: product
