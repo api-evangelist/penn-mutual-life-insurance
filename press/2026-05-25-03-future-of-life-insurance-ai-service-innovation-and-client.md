@@ -1,7 +1,9 @@
 ---
 title: 'Future of Life Insurance: AI, Service Innovation & Client ...'
 url: https://www.youtube.com/watch?v=TgrIYJFyZ34
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Penn Mutual Life Insurance" press release artificial intelligence'
 position: 3
 source: serpapi-google

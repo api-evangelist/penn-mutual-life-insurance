@@ -1,7 +1,9 @@
 ---
 title: Penn Mutual cuts VMware modernization timeline by 25% ...
 url: https://aws.amazon.com/solutions/case-studies/penn-mutual-case-study/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Penn Mutual Life Insurance" press release artificial intelligence'
 position: 4
 source: serpapi-google
