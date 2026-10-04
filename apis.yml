@@ -34,12 +34,13 @@ tags:
   - Insurance
   - Life Insurance
   - Annuities
-  - Financial-Services
+  - Financial Services
 tags_raw:
   - Insurance
   - Life Insurance
   - Annuities
   - Financial Services
+  - Financial-Services
 url: >-
 x-api-posture: no-product-api
 x-api-posture-basis: observed
